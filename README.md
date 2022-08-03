@@ -1,2 +1,3 @@
-# git-tutorial
-git beginners tutorial
+# Git Beginners Tutorial
+
+This is a Tutorial
